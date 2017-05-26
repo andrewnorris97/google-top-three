@@ -50,7 +50,6 @@ public class Search {
 	
 	private String [] PlayerNames(String team) {
 		String player;
-		String[] playerName;
 		String[] players = new String[6];
 		//Google search Input
 		String url = "https://www.google.ca/search?q=";
