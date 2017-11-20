@@ -15,7 +15,7 @@ public class Search {
 	public static void main (String[] args){
 		//Change this to change team searched
 		//Make sure you use '+' in place of ' '
-		String teamName = ("Toronto+Raptors");
+		String teamName = ("Dallas+Stars");
 		new Search(teamName);
 	}
 	
